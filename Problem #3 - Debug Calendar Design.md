@@ -29,7 +29,7 @@ class Node:
   - `left_child`: Reference to the left child node.
   - `right_child`: Reference to the right child node.
 
-### `insert` Method
+#### `insert` Method
 
 The `insert` method in the `Node` class is responsible for inserting a new node (interval) into the tree structure while ensuring no overlaps occur.
 
